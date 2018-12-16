@@ -1,4 +1,4 @@
-#Algorithm Practice
+# Algorithms
 
 ` A collection of solutions to common whiteboarding challenges in a variety of languages`
 
